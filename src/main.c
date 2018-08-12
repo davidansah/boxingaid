@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include "stm32f407xx.h"
 #include "main.h"
+#include "hal.h"
 			
 
 int main(void)
