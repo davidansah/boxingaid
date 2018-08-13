@@ -7,4 +7,9 @@
 #ifndef __HAL_H__
 #define __HAL_H__
 
+
+/**********************************
+* PUBLIC
+**********************************/
+void hal_init(void);
 #endif //__HAL_H__
